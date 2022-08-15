@@ -1,0 +1,2 @@
+# KdvHesaplama
+Patika.dev Alıştırma
